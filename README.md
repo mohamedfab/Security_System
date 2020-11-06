@@ -1,2 +1,2 @@
 # Security_System
-# This repo is for security system.
+# This repo is for security system project.
